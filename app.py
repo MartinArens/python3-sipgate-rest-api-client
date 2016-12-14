@@ -7,8 +7,8 @@ import urllib.parse
 app = Flask(__name__)
 
 config = {
-    'client_id': 'WUSt6I1qYB',
-    'client_secret': 'o3jsYhwuElCCXGm98IazfECxwV8gDarLi70omrG4k5rk5DQOpq',
+    'client_id': '',
+    'client_secret': '',
     'redirect_uri': 'http://127.0.0.1:5000/callback',
     'api_base_uri': 'https://api.sipgate.com',
     'check_ssl': True,
